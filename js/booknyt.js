@@ -1,7 +1,7 @@
 'use strict'
 
-//const booksurl = 'https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=jjW8zV1TbPLAbexFgRctCxoRtZMugayB';
-//const popularurl = 'https://api.nytimes.com/svc/mostpopular/v2/shared/1/facebook.json?api-key=ysgEbxsMniESOh5jhGlndAbiip1B5ogN';
+//const booksurl = 'https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=xxxxxx';
+//const popularurl = 'https://api.nytimes.com/svc/mostpopular/v2/shared/1/facebook.json?api-key=xxxxxx';
 const booksurl = 'https://apiexamplenytbooks.herokuapp.com/nps/svc/books/v3/lists/current/hardcover-fiction.json';
 
 
